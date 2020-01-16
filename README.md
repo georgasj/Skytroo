@@ -20,8 +20,7 @@ Other files:
 
 Application.py - the code that runs the localhost server and web pages. I did not include the front-end html/css/JS in this repo.
 
-Skytroo.db - this is the database that contains all the data from APIs. To create this database I used 3 web crawlers which 
-I will upload in due time. 
+Skytroo.db - this is the database that contains all the data from APIs. To create this database I used 3 web/API crawlers which I will upload in due time. 
 
 
 Play around with the code and please reach out if you are excited!
