@@ -29,4 +29,5 @@ APIs used and special mentions:
 - Website templates by 2016 Free HTML5 - Modifications by Yannis Georgas
 - Special thanks to Skyscanner for giving me Affiliate status for the test period.
 - Commission Junction profile created to receive commissioning from Skyscanner.
+- Used Amazon Web Services Elastic Beanstalk to host www.Skytroo.com website (now no longer active)
 - Landing page Photo by Yannis Georgas copyright. It is the lovely island of Isla Mujeres, Quintana Roo, Mexico
