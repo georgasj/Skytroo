@@ -8,7 +8,7 @@ where is the closest and cheapest destination to fly to and spend a sunny weeken
 and the activity that he/she wants to do, for example explore a city, romantic destination, do sports etc. 
 (photo: Skytroo Landing page) 
 
-2) The app uses APIs to collect temperature, cloud cover, distance from London (flight hours) and plane ticket price for 174 
+2) The app uses APIs to collect temperature, cloud cover, distance from London (flight hours) and plane ticket price for 186 
 popular destinations across Europe mainly cities and towns. Then based on the data the app ranks these cities to find the 
 top 5 destinations and present them as pins on a google map. (photo: Skytroo Results page)
 
