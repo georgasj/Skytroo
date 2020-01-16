@@ -14,7 +14,7 @@ top 5 destinations and present them as pins on a google map. (photo: Skytroo Res
 
 3) The user inspects the destinations by clicking the pins to learn more details about the destinations and if he/she feels 
 happy about it can click the link to go to skyscanner and buy the ticket. The idea is that every purchase at skyscanner will
-offer a small commissioning to myself! (photo: Skytroo Results page - Details)
+offer a small commissioning back to Skytroo. (photo: Skytroo Results page - Details)
 
 Other files:
 
