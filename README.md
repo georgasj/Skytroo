@@ -16,6 +16,14 @@ top 5 destinations and present them as pins on a google map. (photo: Skytroo Res
 happy about it can click the link to go to skyscanner and buy the ticket. The idea is that every purchase at skyscanner will
 offer a small commissioning to myself! (photo: Skytroo Results page - Details)
 
+Other files:
+
+Application.py - the code that runs the localhost server and web pages. I did not include the front-end html/css/JS in this repo.
+
+Skytroo.db - this is the database that contains all the data from APIs. To create this database I used 3 web crawlers which 
+I will upload in due time. 
+
+
 Play around with the code and please reach out if you are excited!
 
 Thanks!
