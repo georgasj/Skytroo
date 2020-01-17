@@ -8,13 +8,9 @@ where is the closest and cheapest destination to fly to and spend a sunny weeken
 and the activity that he/she wants to do, for example explore a city, romantic destination, do sports etc. 
 (photo: Skytroo Landing page) 
 
-2) The app uses APIs to collect temperature, cloud cover, distance from London (flight hours) and plane ticket price for 186 
-popular destinations across Europe mainly cities and towns. Then based on the data the app ranks these cities to find the 
-top 5 destinations and present them as pins on a google map. (photo: Skytroo Results page)
+2) The app uses APIs to collect temperature, cloud cover and plane ticket prices for 186 popular destinations across Europe mainly cities and towns. Then based on the data the app ranks these cities to find the top 5 destinations and pin them down on a google map. (photo: Skytroo Results page)
 
-3) The user inspects the destinations by clicking the pins to learn more details about the destinations and if he/she feels 
-happy about it can click the link to go to skyscanner and buy the ticket. The idea is that every purchase at skyscanner will
-offer a small commissioning back to Skytroo. (photo: Skytroo Results page - Details)
+3) The user inspects the destinations by clicking the pins to learn more details and if he/she feels happy about it can click the link to go to skyscanner and buy the ticket. The idea is that every purchase at skyscanner will offer a small commissioning back to Skytroo (business model). (photo: Skytroo Results page - Details)
 
 Other files:
 
