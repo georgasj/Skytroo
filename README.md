@@ -36,7 +36,6 @@ Yannis
 APIs used and special mentions:
 - Dark Sun for temperature, cloud cover data
 - Google maps API to present the results
-- Google Geocode API to calculate distances between cities
 - Website templates by 2016 Free HTML5 - Modifications by Yannis Georgas
 - Special thanks to Skyscanner for giving me Affiliate status for the test period.
 - Commission Junction profile created to receive commissioning from Skyscanner.
