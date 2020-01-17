@@ -20,7 +20,7 @@ wload. py - this is the one of the two programs that finds fresh weather & cloud
 
 prices.py - this is a simple scrapper used to find ticket prices. Its bespoke so I suggest you write your own code. I used this program weekly to find new prices as prices flactuate.
 
-Skytroo.db - this is the database that contains all the data from APIs. Some of the tables in the database were created by using crawlers which I can share if requested.
+Skytroo.db - this is the database that contains all the data from APIs, wload.py and prices.py. Some of the tables in the database were created by using crawlers which I can share if requested.
 
 
 Play around with the code and please reach out if you are excited!
